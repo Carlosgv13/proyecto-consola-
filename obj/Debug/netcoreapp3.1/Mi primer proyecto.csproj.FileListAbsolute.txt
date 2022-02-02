@@ -1,0 +1,13 @@
+C:\GIT DOCUMENTOS\Mi primer proyecto\bin\Debug\netcoreapp3.1\Mi primer proyecto.exe
+C:\GIT DOCUMENTOS\Mi primer proyecto\bin\Debug\netcoreapp3.1\Mi primer proyecto.deps.json
+C:\GIT DOCUMENTOS\Mi primer proyecto\bin\Debug\netcoreapp3.1\Mi primer proyecto.runtimeconfig.json
+C:\GIT DOCUMENTOS\Mi primer proyecto\bin\Debug\netcoreapp3.1\Mi primer proyecto.runtimeconfig.dev.json
+C:\GIT DOCUMENTOS\Mi primer proyecto\bin\Debug\netcoreapp3.1\Mi primer proyecto.dll
+C:\GIT DOCUMENTOS\Mi primer proyecto\bin\Debug\netcoreapp3.1\Mi primer proyecto.pdb
+C:\GIT DOCUMENTOS\Mi primer proyecto\obj\Debug\netcoreapp3.1\Mi primer proyecto.csprojAssemblyReference.cache
+C:\GIT DOCUMENTOS\Mi primer proyecto\obj\Debug\netcoreapp3.1\Mi primer proyecto.AssemblyInfoInputs.cache
+C:\GIT DOCUMENTOS\Mi primer proyecto\obj\Debug\netcoreapp3.1\Mi primer proyecto.AssemblyInfo.cs
+C:\GIT DOCUMENTOS\Mi primer proyecto\obj\Debug\netcoreapp3.1\Mi primer proyecto.csproj.CoreCompileInputs.cache
+C:\GIT DOCUMENTOS\Mi primer proyecto\obj\Debug\netcoreapp3.1\Mi primer proyecto.dll
+C:\GIT DOCUMENTOS\Mi primer proyecto\obj\Debug\netcoreapp3.1\Mi primer proyecto.pdb
+C:\GIT DOCUMENTOS\Mi primer proyecto\obj\Debug\netcoreapp3.1\Mi primer proyecto.genruntimeconfig.cache
