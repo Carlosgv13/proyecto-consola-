@@ -1,6 +1,6 @@
 # proyecto-consola-
-#MI PROYECTO
-**IES PEÑAS NEGRAS**
+##CENTROS EDUCATIVOS 
+###**IES PEÑAS NEGRAS**
 _¿QUÉ ES?_
 Es un centro educativo español que pertenece a la localidad de Mora , provincia de Toledo.
 Se ubica cerca del **Paseo de las Delicias**.
